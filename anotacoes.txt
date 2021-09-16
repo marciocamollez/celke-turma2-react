@@ -1,0 +1,17 @@
+Treino da Turma 2 de React do Celke
+
+Sistema está com o login funcionando completamente, com crud de usuário, edição de foto do perfil e recuperação de senha.
+
+*Não tem css nem frameworks, é só o esqueleto do funcionamento principal.
+
+A senha vai para o site https://mailtrap.io que criei uma conta la para fazer testes de envio
+
+Todas as credenciais do backend estão no arquivo .env
+
+Para rodar o backend:
+npm install 
+nodemon app.js
+
+Para rodar o frontend:
+npm install
+npm start
